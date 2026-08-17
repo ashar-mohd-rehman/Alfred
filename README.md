@@ -15,3 +15,5 @@ A desk bot that is made using XIAO ESP32S3 and a NEO-6M GPS and a 1.3inch OLED. 
 | NEO-6M GPS Module | Global Positioning System Module. It measures speed using latitude and longitude data by connecting to various satellites | 1 | 2.70 | [Product Link](https://robu.in/product/neo-6m-gps-module-with-eprom-normal-quality/) | Robu.in |
 | 1.3 Inch I2C OLED Display Module | To show speed, time, distance, and other various telemetry | 1 | 2.90 | [Product Link](https://robu.in/product/1-3-inch-i2c-oled-display-module-4-pin-white/) | Robu.in |
 | Seeed Studio XIAO ESP32-S3 | MCU, It is the brain of my speedometer | 1 | 9.66 | [Product Link](https://robu.in/product/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0) | Robu.in |
+
+https://docs.google.com/spreadsheets/d/18LzPFR32bOCpws2quibB2MhIeOZD7u3qHHzXDA-UGi0/edit?usp=sharing

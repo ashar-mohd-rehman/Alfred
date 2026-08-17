@@ -1,27 +1,3 @@
-/*
-  GPS Desk Pet — XIAO ESP32S3 + NEO-6M GPS + SH1106 OLED
-  ---------------------------------------------------------
-  A desk pet that lives on GPS "senses" instead of an IMU:
-    - Shake detection comes from sudden GPS speed spikes
-      (the NEO-6M reports bogus high speed when jostled)
-    - Time comes straight from the GPS UTC + your timezone offset
-    - No IMU, no bitmaps — every face is drawn live with u8g2 shapes
-
-  Libraries needed (Library Manager):
-    - TinyGPSPlus      (by Mikal Hart)
-    - U8g2              (by oliver)
-
-  Wiring (matches the schematic you drew):
-    XIAO 3V3  -> GPS VCC
-    XIAO GND  -> GPS GND
-    XIAO RX (D7) <- GPS TX
-    XIAO TX (D6) -> GPS RX
-    XIAO SDA  -> OLED SDA
-    XIAO SCL  -> OLED SCL
-    OLED VCC/GND -> 3V3/GND
-
-  Toggle switches are wired but IGNORED in this version, per request.
-*/
 
 #include <Wire.h>
 #include <U8g2lib.h>

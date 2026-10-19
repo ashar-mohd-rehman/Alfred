@@ -1,6 +1,6 @@
 <img width="2561" height="974" alt="Alfred_electronics_2026-Oct-19_10-54-39AM-000_CustomizedView17511593187" src="https://github.com/user-attachments/assets/4900bce4-d3d7-4c5d-beb2-64b2476a9a30" />
 
-A desk bot that is made using XIAO ESP32S3 and a NEO-6M GPS and a 1.3inch OLED. HIs name is alfred and he uses the GPS instead of an IMU and rtc time module to detect shake and time. When I shake it the speed goes up high and GPS detects it , this makes the desk companion show some fun animations, like when someone is feeling sick then dizzy then getting better and finally it shows a clock. The time, on this clock comes from the GPS UTC. itll use a 3d printed enclosure from my previous project
+A desk bot that is made using XIAO ESP32S3 and a NEO-6M GPS and a 1.3inch OLED. HIs name is alfred and he uses the GPS instead of an IMU and rtc time module to detect shake and time. When I shake it the speed goes up high and GPS detects it , this makes the desk companion show some fun animations, like when someone is feeling sick then dizzy then getting better and finally it shows a clock. The time, on this clock comes from the GPS UTC. itll use a 3d printed enclosure 
 
 I decided to make this project because it is monsoon season in india and while riding my bike my speedometer got wet so instead of keep using it I took it home and dried it out luckicly nothing was damaged so i decided to turn that into a indoor desk buddy
 

@@ -23,3 +23,5 @@ I then made the wiring diagram
 <img width="1488" height="1061" alt="image" src="https://github.com/user-attachments/assets/0a164e63-9172-4a98-a18d-b7e303666daf" />
 
 So basically how this works is that when I shake this aggresively the gps inputs it, And then the xiao processes it and outputs time on the 1.3 inch display
+
+Total Time Spent : 1.5h 

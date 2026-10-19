@@ -14,4 +14,12 @@ Total Time Spent: 1.5h
 
 **#1 Researched and made the wiring diagram**
 
-A little background, I made a speedometer for my cycle but since it was rainy season 
+A little background, I made a speedometer for my cycle but since it is monsoon season in india and while riding my bike my speedometer got wet so instead of keep using it I took it home and dried it out luckicly nothing was damaged so i decided to turn that into a indoor desk buddy
+
+For this project I'll be using Xiao Esp32S3, Neo6m GPS module, and 1.3 inch oled display
+
+I then made the wiring diagram 
+
+<img width="1488" height="1061" alt="image" src="https://github.com/user-attachments/assets/0a164e63-9172-4a98-a18d-b7e303666daf" />
+
+So basically how this works is that when I shake this aggresively the gps inputs it, And then the xiao processes it and outputs time on the 1.3 inch display
